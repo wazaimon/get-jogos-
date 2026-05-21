@@ -1,0 +1,34 @@
+# Exemplos de jogos cadastrados
+
+jogos = [
+    {
+        "titulo": "Subnautica 2",
+        "genero": "Sobrevivência",
+        "ano": 2025
+    },
+    {
+        "titulo": "DOOM: The Dark Ages",
+        "genero": "FPS",
+        "ano": 2025
+    },
+    {
+        "titulo": "Hollow Knight",
+        "genero": "Metroidvania",
+        "ano": 2017
+    },
+    {
+        "titulo": "Subnautica",
+        "genero": "Sobrevivência",
+        "ano": 2018
+    },
+    {
+        "titulo": "Subnautica: Below Zero",
+        "genero": "Sobrevivência",
+        "ano": 2021
+    },
+    {
+        "titulo": "OneShot",
+        "genero": "Puzzle/Aventura",
+        "ano": 2016
+    }
+]
